@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-Delius: "Delius Swash Caps", sans-serif;
+  --font-Inter: Inter, sans-serif;
+
+  --color-vermelho: #d62839;
+  --color-magenta: #BA324F;
+  --color-azul-marinho: #175676;
+  --color-azul-ciano: #4BA3C3;
+
+}

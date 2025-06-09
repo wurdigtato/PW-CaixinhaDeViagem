@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "nome": "Admin2",
+      "email": "admin2@admin.com",
+      "senha": "12341234"
+    }
+  ],
+  "trips": [
+    {
+      "id": "d142",
+      "cidade": "Bora Bora",
+      "estado": "",
+      "pais": "Taiti",
+      "dataCriacao": "2025-06-05T15:58:34.082Z",
+      "dataInicial": "2017-03-04T00:00:00.000Z",
+      "dataFinal": "2017-03-04T00:00:00.000Z",
+      "avaliacao": "5",
+      "imagem": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402354192.jpg?k=24ee32caa4a18bd6be315a3cccdb85ab78be445f6f3df962481dc13e4d16cd8a&o=&hp=1",
+      "gastos": "12000",
+      "comentarios": [
+        "adjaiosj\n"
+      ],
+      "nomes": [
+        "Admin2"
+      ],
+      "dataComentario": [
+        "2025-06-08T15:05:16.950Z"
+      ]
+    },
+    {
+      "id": "462d",
+      "cidade": "Gramado",
+      "estado": "Rio Grande do Sul",
+      "pais": "Brasil",
+      "dataCriacao": "2025-06-04T18:16:39.915Z",
+      "dataInicial": "2019-10-25",
+      "dataFinal": "2019-10-30",
+      "usuarios": "Marta, Paula, Jorge",
+      "avaliacao": "4",
+      "imagem": "https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2021/07/15133517/Gramado_Rio_Grande_do_Sul_RS.jpg",
+      "gastos": "3400",
+      "comentarios": [
+        "legaaaaal"
+      ],
+      "nomes": [
+        "Admin2"
+      ],
+      "dataComentario": [
+        "2025-06-06T19:19:57.993Z"
+      ]
+    },
+    {
+      "id": "803f",
+      "cidade": "Punta del Este",
+      "estado": "",
+      "pais": "Uruguai",
+      "dataCriacao": "2025-06-04T18:17:53.403Z",
+      "dataInicial": "2023-05-15",
+      "dataFinal": "2023-05-20",
+      "usuarios": "Paula, Paulo",
+      "avaliacao": "4.5",
+      "imagem": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/318137273.jpg?k=638967e50c912b6b2252b3c41fdb5f0a4df68ad6f5cf38adac7d79fa8ea516ff&o=",
+      "gastos": "5400",
+      "comentarios": [],
+      "nomes": [],
+      "dataComentario": []
+    },
+    {
+      "id": "3241",
+      "cidade": "Salar de Uyuni",
+      "estado": "",
+      "pais": "Bolívia",
+      "dataCriacao": "2025-06-04T18:19:12.218Z",
+      "dataInicial": "2024-11-10",
+      "dataFinal": "2024-11-15",
+      "usuarios": "Lucia, Jorge",
+      "avaliacao": "3.5",
+      "imagem": "https://www.civitatis.com/f/bolivia/uyuni/excursion-salar-uyuni-589x392.jpg",
+      "gastos": "6500",
+      "comentarios": [],
+      "nomes": [],
+      "dataComentario": []
+    },
+    {
+      "id": "424a",
+      "cidade": "São José dos Ausentes",
+      "estado": "Rio Grande do Sul",
+      "pais": "Brasil",
+      "dataCriacao": "2025-06-05T00:57:36.923Z",
+      "dataInicial": "2016-05-18",
+      "dataFinal": "2016-05-20",
+      "usuarios": "Luiza",
+      "avaliacao": "2",
+      "imagem": "https://www.canionturismo.com.br/wp-content/uploads/2023/01/canion-monte-negro-sao-jose-dos-ausentes.jpg",
+      "gastos": "1200",
+      "comentarios": [],
+      "nomes": [],
+      "dataComentario": []
+    },
+    {
+      "id": "a061",
+      "cidade": "Bonito",
+      "estado": "Mato Grosso do Sul",
+      "pais": "Brasil",
+      "dataCriacao": "2025-06-05T02:40:48.653Z",
+      "dataInicial": "2024-03-16",
+      "dataFinal": "2024-03-20",
+      "usuarios": "Lúcio, Marta, Camila",
+      "avaliacao": "5",
+      "imagem": "https://blog.hurb.com/wp-content/uploads/2024/09/passeios-em-bonito-ms-rio-da-prata.jpg",
+      "gastos": "16300",
+      "comentarios": [],
+      "nomes": [],
+      "dataComentario": []
+    },
+    {
+      "id": "ffe8",
+      "cidade": "Fortaleza",
+      "estado": "Ceará",
+      "pais": "Brasil",
+      "dataCriacao": "2025-06-05T16:09:50.496Z",
+      "dataInicial": "2023-04-12",
+      "dataFinal": "2023-04-15",
+      "usuarios": "Marta, José, Kevin",
+      "avaliacao": "2",
+      "imagem": "https://www.observatoriodasmetropoles.net.br/wp-content/uploads/2018/01/Praia-do-Meireles_Ceara.jpg",
+      "gastos": "6320",
+      "comentarios": [],
+      "nomes": [],
+      "dataComentario": []
+    }
+  ]
+}
