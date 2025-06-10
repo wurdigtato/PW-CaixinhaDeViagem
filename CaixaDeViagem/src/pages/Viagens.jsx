@@ -3,12 +3,13 @@ import Header from "../Components/Header";
 import { useEffect, useState } from "react";
 import { FaDollarSign, FaStar, FaTrash, FaUserGroup } from "react-icons/fa6";
 import { useForm } from "react-hook-form";
+import Swal from "sweetalert2";
 
 function Viagens() {
     const { tripId } = useParams()
     const [trip, setTrip] = useState({})
     const [conceito, setConceito] = useState("")
-    const { register, handleSubmit } = useForm()
+    const { register, handleSubmit, reset } = useForm()
 
     const usuario = JSON.parse(localStorage.getItem("usuario") || "{}");
 
@@ -32,7 +33,7 @@ function Viagens() {
                 body: JSON.stringify(tripAlterado)
             })
             if (!resposta.ok) throw new Error("Erro ao alterar a Viagem")
-            alert("ok")
+                Swal.fire("Comentário enviado!");
         } catch (e) {
             console.log(`Erro: ${e.message}`)
         }
@@ -45,6 +46,7 @@ function Viagens() {
         } catch (e) {
             console.log("Erro: ", e.message)
         }
+        reset()
     }
 
     useEffect(() => {
