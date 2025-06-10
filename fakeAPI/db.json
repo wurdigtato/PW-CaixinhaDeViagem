@@ -5,6 +5,12 @@
       "nome": "Admin2",
       "email": "admin2@admin.com",
       "senha": "12341234"
+    },
+    {
+      "id": "0c93",
+      "nome": "teste",
+      "email": "teste@teste.com",
+      "senha": "teste"
     }
   ],
   "trips": [
@@ -13,21 +19,15 @@
       "cidade": "Bora Bora",
       "estado": "",
       "pais": "Taiti",
-      "dataCriacao": "2025-06-05T15:58:34.082Z",
+      "dataCriacao": "2025-06-10T23:01:18.495Z",
       "dataInicial": "2017-03-04T00:00:00.000Z",
       "dataFinal": "2017-03-04T00:00:00.000Z",
       "avaliacao": "5",
       "imagem": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402354192.jpg?k=24ee32caa4a18bd6be315a3cccdb85ab78be445f6f3df962481dc13e4d16cd8a&o=&hp=1",
       "gastos": "12000",
-      "comentarios": [
-        "adjaiosj\n"
-      ],
-      "nomes": [
-        "Admin2"
-      ],
-      "dataComentario": [
-        "2025-06-08T15:05:16.950Z"
-      ]
+      "comentarios": [],
+      "nomes": [],
+      "dataComentario": []
     },
     {
       "id": "462d",
@@ -42,13 +42,13 @@
       "imagem": "https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2021/07/15133517/Gramado_Rio_Grande_do_Sul_RS.jpg",
       "gastos": "3400",
       "comentarios": [
-        "legaaaaal"
+        "Legal\n"
       ],
       "nomes": [
         "Admin2"
       ],
       "dataComentario": [
-        "2025-06-06T19:19:57.993Z"
+        "2025-06-10T22:59:24.127Z"
       ]
     },
     {
@@ -104,29 +104,12 @@
       "cidade": "Bonito",
       "estado": "Mato Grosso do Sul",
       "pais": "Brasil",
-      "dataCriacao": "2025-06-05T02:40:48.653Z",
-      "dataInicial": "2024-03-16",
-      "dataFinal": "2024-03-20",
-      "usuarios": "Lúcio, Marta, Camila",
+      "dataCriacao": "2025-06-10T22:40:50.707Z",
+      "dataInicial": "2024-03-16T00:00:00.000Z",
+      "dataFinal": "2024-03-20T00:00:00.000Z",
       "avaliacao": "5",
       "imagem": "https://blog.hurb.com/wp-content/uploads/2024/09/passeios-em-bonito-ms-rio-da-prata.jpg",
       "gastos": "16300",
-      "comentarios": [],
-      "nomes": [],
-      "dataComentario": []
-    },
-    {
-      "id": "ffe8",
-      "cidade": "Fortaleza",
-      "estado": "Ceará",
-      "pais": "Brasil",
-      "dataCriacao": "2025-06-05T16:09:50.496Z",
-      "dataInicial": "2023-04-12",
-      "dataFinal": "2023-04-15",
-      "usuarios": "Marta, José, Kevin",
-      "avaliacao": "2",
-      "imagem": "https://www.observatoriodasmetropoles.net.br/wp-content/uploads/2018/01/Praia-do-Meireles_Ceara.jpg",
-      "gastos": "6320",
       "comentarios": [],
       "nomes": [],
       "dataComentario": []
